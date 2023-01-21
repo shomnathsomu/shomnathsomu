@@ -1,5 +1,5 @@
-<h3> Good day with greetings </h3>
-<h3> Nice to meet you👋! I'm Shomnath Pramanik.</h2>
+<h3> Good day with greetings! </h3>
+<h3> Nice to meet you! </h2>
 <h2> Lately working as a Software Engineer, QA </h2>
 
 
