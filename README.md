@@ -5,9 +5,9 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies.
-- 🤔 &nbsp; Developing software solutions.
-- 🤔 &nbsp; Building test automation solutions.
+- 🚀 &nbsp; Exploring new technologies.
+- 👨‍💻 &nbsp; Developing software solutions.
+- 🤖 &nbsp; Building test automation solutions.
 - 🎓 &nbsp; Studied BSc and MS in Computer Science & Engineering at Jahangirnagar University, Dhaka, Bangladesh.
 
 <br>
