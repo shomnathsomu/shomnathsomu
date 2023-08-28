@@ -1,6 +1,6 @@
 <h3> Good day with greetings! </h3>
 <h3> Nice to meet you! </h2>
-<h2> Lately working as a Software Engineer, QA at BJIT Limited, Dhaka, Bangladesh</h2>
+<h2> Lately working as a Senior Software QA Engineer at BJIT Limited, Dhaka, Bangladesh</h2>
 
 
 ## 👨🏻‍💻 &nbsp;About Me 
