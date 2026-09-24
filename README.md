@@ -25,7 +25,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
 - 🔧 &nbsp;
-  ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
+  ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
   ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
   ![JMeter](https://img.shields.io/badge/-JMeter-C51A4A?style=flat&logo=apache%20jmeter)
