@@ -47,19 +47,7 @@
 
 ## 📊 Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shomnathsomu&show_icons=true&theme=radical"
-    alt="Shomnath's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shomnathsomu&layout=compact&theme=radical"
-    alt="Shomnath's Top Languages"
-    height="180"
-  />
-</p>
-  
-<a href="https://github.com/shomnathsomu" target="_blank" rel="noreferrer">
-  <img src="./contributions.svg" alt="Shomnath's contribution graph" />
-</a>
+[![Shomnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=shomnathsomu&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/shomnathsomu)
+[![Shomnath's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shomnathsomu&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/shomnathsomu)
+
+[![Shomnath's contribution graph](./contributions.svg)](https://github.com/shomnathsomu)
