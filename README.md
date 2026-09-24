@@ -37,7 +37,7 @@
   ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
   
 - 🛢 &nbsp;
-  ![SQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=sql)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
