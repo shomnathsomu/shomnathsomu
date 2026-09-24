@@ -1,5 +1,5 @@
 <h3> Good day and greetings! </h3>
-<h3> Nice to meet you! </h2>
+<h3> Nice to meet you! </h3>
 <h2> Working as a Software QA Analyst at BJIT Limited, Dhaka, Bangladesh</h2>
 
 
@@ -13,6 +13,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-Shomnath%20Pramanik-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shomnathsomu/)](https://www.linkedin.com/in/shomnathsomu/)
+[![GitHub Badge](https://img.shields.io/badge/-@shomnathsomu-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/shomnathsomu)](https://github.com/shomnathsomu)
 [![Gmail Badge](https://img.shields.io/badge/-shomnathcse22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shomnathcse22@gmail.com)](mailto:shomnathcse22@gmail.com)
 
 
@@ -48,15 +49,17 @@
 
 <p align="center">
   <img
-    src="./profile/stats.svg"
+    src="https://github-readme-stats.vercel.app/api?username=shomnathsomu&show_icons=true&theme=radical"
     alt="Shomnath's GitHub Stats"
     height="180"
   />
   <img
-    src="./profile/top-langs.svg"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shomnathsomu&layout=compact&theme=radical"
     alt="Shomnath's Top Languages"
     height="180"
   />
 </p>
   
-<a href=#><img src="contributions.svg"></a>
+<a href="https://github.com/shomnathsomu" target="_blank" rel="noreferrer">
+  <img src="./contributions.svg" alt="Shomnath's contribution graph" />
+</a>
