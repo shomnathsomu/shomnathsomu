@@ -1,14 +1,14 @@
-<h3> Good day with greetings! </h3>
+<h3> Good day and greetings! </h3>
 <h3> Nice to meet you! </h2>
-<h2> Lately working as a Senior Software QA Engineer at BJIT Limited, Dhaka, Bangladesh</h2>
+<h2> Working as a Software QA Analyst at BJIT Limited, Dhaka, Bangladesh</h2>
 
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🚀 &nbsp; Exploring new technologies.
-- 👨‍💻 &nbsp; Developing software solutions.
+- 👨‍💻 &nbsp; Developing software test strategies.
 - 🤖 &nbsp; Building test automation solutions.
-- 🎓 &nbsp; Studied BSc and MS in Computer Science & Engineering at Jahangirnagar University, Dhaka, Bangladesh.
+- 🎓 &nbsp; Studied for BSc and MS in Computer Science & Engineering at Jahangirnagar University in Dhaka, Bangladesh.
 
 <br>
 
@@ -24,6 +24,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
 - 🔧 &nbsp;
+  ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
   ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
   ![JMeter](https://img.shields.io/badge/-JMeter-C51A4A?style=flat&logo=apache%20jmeter)
@@ -45,7 +46,7 @@
 
 ## 📈 Stats
 
-![Shomnath's github stats](https://github-readme-stats.vercel.app/api?username=shomnathsomu&hide=["issues"]&show_icons=true&line_height=30)
+![Shomnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=shomnathsomu&hide=issues&show_icons=true&line_height=30)
 
 ![Shomnath's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shomnathsomu&theme=buefy&layout=compact&langs_count=10)
 
