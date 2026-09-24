@@ -1,53 +1,94 @@
-<h3> Good day and greetings! </h3>
-<h3> Nice to meet you! </h3>
-<h2> Working as a Software QA Analyst at BJIT Limited, Dhaka, Bangladesh</h2>
+# Hi, I'm Shomnath Pramanik
 
+### Software QA Analyst | Quality Engineering | Test Automation
 
-## 👨🏻‍💻 &nbsp;About Me 
+I am a Software QA Analyst at BJIT Limited, Dhaka, Bangladesh, with a strong interest in building reliable, scalable, and user-centric digital products. I focus on quality assurance practices, test strategy development, and automation frameworks that improve product confidence and release quality.
 
-- 🚀 &nbsp; Exploring new technologies.
-- 👨‍💻 &nbsp; Developing software test strategies.
-- 🤖 &nbsp; Building test automation solutions.
-- 🎓 &nbsp; Studied for BSc and MS in Computer Science & Engineering at Jahangirnagar University in Dhaka, Bangladesh.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shomnathsomu/" target="_blank">
+    <img src="https://img.shields.io/badge/-Shomnath%20Pramanik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/shomnathsomu" target="_blank">
+    <img src="https://img.shields.io/badge/-@shomnathsomu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:shomnathcse22@gmail.com">
+    <img src="https://img.shields.io/badge/-shomnathcse22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-<br>
+---
 
-[![LinkedIn](https://img.shields.io/badge/-Shomnath%20Pramanik-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shomnathsomu/)](https://www.linkedin.com/in/shomnathsomu/)
-[![GitHub Badge](https://img.shields.io/badge/-@shomnathsomu-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/shomnathsomu)](https://github.com/shomnathsomu)
-[![Gmail Badge](https://img.shields.io/badge/-shomnathcse22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shomnathcse22@gmail.com)](mailto:shomnathcse22@gmail.com)
+## About Me
 
+- 🚀 Exploring modern technologies and best practices in software quality.
+- 👨‍💻 Designing effective software test strategies and quality assurance plans.
+- 🤖 Building automated test solutions to improve speed, coverage, and reliability.
+- 🎓 BSc and MS in Computer Science & Engineering from Jahangirnagar University, Dhaka, Bangladesh.
 
-## 🛠 &nbsp;Tech Stack
+---
 
-- 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  
-- 🔧 &nbsp;
-  ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-  ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
-  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
-  ![JMeter](https://img.shields.io/badge/-JMeter-C51A4A?style=flat&logo=apache%20jmeter)
-  
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
-  ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
-  
-- 🛢 &nbsp;
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+## Professional Focus
 
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
-  <br/>
+- Functional and regression testing
+- Test strategy and test planning
+- Test automation framework design
+- API and web application testing
+- Quality improvement for software delivery pipelines
 
-## 📊 Stats
+---
 
-[![Shomnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=shomnathsomu&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/shomnathsomu)
-[![Shomnath's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shomnathsomu&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/shomnathsomu)
+## Tech Stack
 
-[![Shomnath's contribution graph](./contributions.svg)](https://github.com/shomnathsomu)
+### Programming Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Automation & Testing
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-C51A4A?style=flat&logo=apache%20jmeter&logoColor=white)
+
+### Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+
+### Database & Tools
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=sql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/shomnathsomu">
+    <img src="https://github-readme-stats.vercel.app/api?username=shomnathsomu&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shomnathsomu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shomnathsomu&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shomnathsomu">
+    <img src="./contributions.svg" alt="Contribution Graph" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Committed to delivering quality through thoughtful testing and robust automation.</i>
+</p>
