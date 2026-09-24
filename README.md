@@ -44,13 +44,19 @@
   
   <br/>
 
-## 📈 Stats
+## 📊 Stats
 
-![Shomnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=shomnathsomu&hide=issues&show_icons=true&line_height=30)
-
-![Shomnath's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shomnathsomu&theme=buefy&layout=compact&langs_count=10)
-
-----
-  
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    alt="Shomnath's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Shomnath's Top Languages"
+    height="180"
+  />
+</p>
   
 <a href=#><img src="contributions.svg"></a>
